@@ -1,3 +1,3 @@
 # calculadora-js
 
-calculadora desenvolvida no curso dev web completo da Udemy a fim de aprimorar conhecimentos acerca do JS
+calculadora desenvolvida em curso dev web a fim de aprimorar e treinar conhecimentos acerca do JS
